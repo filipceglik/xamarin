@@ -11,8 +11,8 @@
 namespace App1 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1\\MainPa" +
-        "ge.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1\\Mai" +
+        "nPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

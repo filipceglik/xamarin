@@ -15,6 +15,6 @@ namespace App1
             slidey.Value = 0.5;
         }
 
-        private void Slider_ValueChanged(object sender, ValueChangedEventArgs e) => jebany.Text = String.Format("Value is {0:F2}", e.NewValue);
+       
     }
 }

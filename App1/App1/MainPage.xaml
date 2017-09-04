@@ -5,7 +5,9 @@
              x:Class="App1.MainPage">
     <StackLayout VerticalOptions="Center" 
                  HorizontalOptions="Center">
-	<Label Text="Welcome to Xamarin Forms!" x:Name="jebany"/>
-    <Slider ValueChanged="Slider_ValueChanged" x:Name="slidey"/>
+	<Label Text="{Binding Source={x:Reference slidey},
+                  Path=Value,
+                  StringFormat='Value is {0:F2}'}" x:Name="jebany"/>
+    <Slider x:Name="slidey"/>
     </StackLayout>
 </ContentPage>

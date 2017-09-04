@@ -22264,12 +22264,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1.UWP\\App1.UWP.csproj",
       "projectName": "App1.UWP",
-      "projectPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\project.json",
+      "projectPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1.UWP\\project.json",
       "packagesPath": "C:\\Users\\Filip Ceglik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Filip Ceglik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22282,8 +22282,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj"
+            "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1\\App1.csproj": {
+              "projectPath": "C:\\Users\\Filip Ceglik\\Documents\\Visual Studio 2017\\Projects\\xamarin\\App1\\App1\\App1.csproj"
             }
           }
         }

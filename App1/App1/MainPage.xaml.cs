@@ -15,6 +15,9 @@ namespace App1
             slidey.Value = 0.5;
         }
 
-       
+        if (Device)
+	{
+
+	}
     }
 }
